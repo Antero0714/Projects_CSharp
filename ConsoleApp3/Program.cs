@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Задания пронумерованы в static void Main()
+using System;
 
 namespace std
 {
